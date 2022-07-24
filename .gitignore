@@ -1,0 +1,51 @@
+# main #
+
+## general
+
+!.aaa
+
+*.log
+
+**/.DS_Store
+
+## output files
+
+### c debug
+*.d
+*.su
+*.idb
+*.pdb
+### c object
+*.o
+*.ko
+*.lo
+*.slo
+*.obj
+*.ilk
+*.map
+*.exp
+
+## precompiled headers
+
+*.gch
+*.pch
+
+## binaries
+
+### dynamic libraries
+*.so
+*.so.*
+*.dll
+*.dylib
+### static libraries
+*.a
+*.la
+*.lai
+*.lib
+### executables
+*.out
+*.elf
+*.exe
+*.hex
+
+# endf #
